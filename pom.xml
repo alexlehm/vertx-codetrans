@@ -56,7 +56,7 @@
     <dependency>
       <groupId>org.jruby</groupId>
       <artifactId>jruby-stdlib</artifactId>
-      <version>1.7.18</version>
+      <version>9.4.13.0</version>
       <optional>true</optional>
     </dependency>
     <dependency>
